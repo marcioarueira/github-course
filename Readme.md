@@ -10,3 +10,6 @@ Este é um repositório teste para ensinar como o Git funciona.
 
 Saiba mais em [willianjustem.com.br](http://willianjustem.com.br)
 
+Gostou do curso?
+
+
