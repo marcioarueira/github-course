@@ -1,15 +1,7 @@
 # Github
 
-Arquivo da aulda de git para iniciantes
+Este é um repositório teste para ensionar como o Git Funfa
 
-Acabou de ser criado um novo comentario
+Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 
-Acabou de ser modificado
-
-Este é um repositório teste para ensinar como o Git funciona.
-
-Saiba mais em [willianjustem.com.br](http://willianjustem.com.br)
-
-Gostou do curso?
-
-
+Gostou do curso? Quer mais? Ajude com uma doação, até um café é valido =)
